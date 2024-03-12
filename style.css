@@ -10,7 +10,12 @@ header, main{
   margin: auto;
   text-align: center;
 }
+header a{ background-color: grey;
+  color:blue ;
+  padding: 5px;
 
+
+}
 .image-styling{
   display: block;
   width:700px ;
